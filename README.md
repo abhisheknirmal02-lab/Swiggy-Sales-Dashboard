@@ -83,10 +83,10 @@ India choropleth map showing state-wise revenue distribution across all 28 state
 
 ## 📂 Files
 
-```
-├── Swiggy_Raw_Data_Excel.xlsx   # Raw data + Analysis + Dashboard sheets
-└── screenshots/                 # Dashboard preview images
-```
+
+├── [Swiggy Dashboard](https://github.com/abhisheknirmal02-lab/Swiggy-Sales-Dashboard/blob/main/Swiggy%20Sales%20Dashboard.xlsx)   # Raw data + Analysis + Dashboard sheets
+└── [Dashboard Preview](https://github.com/abhisheknirmal02-lab/Swiggy-Sales-Dashboard/blob/main/Swiggy%20Dashboard.png)             
+
 
 ---
 
